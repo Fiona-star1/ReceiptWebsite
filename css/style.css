@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(144, 190, 166, 0.7);
+}
+
+.menu {
+    text-align: center;
+    padding-top: 200px;
+}
+
+#fatura {
+    height: 25px;
+    width: 250px;
+    text-align: center;
+    font-size: 16px;
+    border: 1px;
+}
+
+#bakshishi {
+    height: 25px;
+    width: 250px;
+    text-align: center;
+    font-size: 16px;
+    border: 1px;
+}
+
+#rezultati {
+    height: 25px;
+    width: 250px;
+    text-align: center;
+    font-size: 16px;
+    border: 1px;
+}
